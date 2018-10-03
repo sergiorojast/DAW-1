@@ -1,4 +1,4 @@
-# DAW
+# enlaces 2DAW IES Trassierra (2018-2019)
 
 ## DWEC
 
@@ -47,5 +47,7 @@
 ## DAW
 - Apache https://www.youtube.com/watch?v=8_GJH5xu3bk
 - Manual de Kali http://www.reydes.com/archivos/Kali_Linux_v2_ReYDeS.pdf
+- Redes de área local Aplicaciones y Servicios Linux http://www.ite.educacion.es/formacion/materiales/85/cd/index.htm
+- Redes de área local Aplicaciones y Servicios Linux (PDF)  http://blogofsysadmins.com/wp-content/uploads/2010/01/curso-redes-ubuntu.pdf
 
 ## SEO
