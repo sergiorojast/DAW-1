@@ -16,21 +16,24 @@
 - Cómo añadir el plugin PHP en NetBeans IDE  http://www.zeppelinux.es/como-anadir-el-plugin-php-en-netbeans-ide/
 - NetBeans IDE y PHP, los mejores amigos https://www.kumbiaphp.com/blog/2017/02/20/kumbiaphp-y-netbeans-ide-los-mejores-amigos/
 
-**Arrays**
+**Lista Youtube**
 
+- Curso PHP Píldoras
+
+**Arrays**
 - PHP 5 Tutorial [https://www.w3schools.com/php/default.asp](https://www.w3schools.com/php/default.asp)
-- Arrays http://php.net/manual/es/language.types.array.php
-- Arrays https://www.geeksforgeeks.org/php-arrays/
+- http://php.net/manual/es/language.types.array.php
+- https://www.geeksforgeeks.org/php-arrays/
 - Arrays https://diego.com.es/arrays-en-php
-- Más ejemplos de arrays  http://www.manualphp.factorcomun.net/sintaxis/array-en-array.php
-- Más ejemplos de arrays  http://www.manualphp.factorcomun.net/sintaxis/array-ejercicio-facturas.php
+- http://www.manualphp.factorcomun.net/sintaxis/array-en-array.php
+- http://www.manualphp.factorcomun.net/sintaxis/array-ejercicio-facturas.php
 - https://www.anerbarrena.com/php-array-tipos-ejemplos-3876/
 - https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_PHP/Intermedio/Arrays
 - http://www.mclibre.org/consultar/php/lecciones/php-matrices.html
 
 **Funciones**
-- Funciones http://php.net/manual/es/functions.user-defined.php
-- Funciones https://desarrolloweb.com/articulos/312.php
+- http://php.net/manual/es/functions.user-defined.php
+- https://desarrolloweb.com/articulos/312.php
 
 
 ## ED
