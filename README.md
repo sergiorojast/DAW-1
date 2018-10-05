@@ -8,8 +8,6 @@
 
 ### U01
 
-- PHP 5 Tutorial [https://www.w3schools.com/php/default.asp](https://www.w3schools.com/php/default.asp)
-
 **Configuración de NetBeans para PHP**
 
 - PHP Development https://netbeans.org/features/php/
@@ -17,21 +15,22 @@
 - How to Download & Install XAMPP & NetBeans: PHP Tutorial https://www.guru99.com/xampp-netbeans.html
 - Cómo añadir el plugin PHP en NetBeans IDE  http://www.zeppelinux.es/como-anadir-el-plugin-php-en-netbeans-ide/
 - NetBeans IDE y PHP, los mejores amigos https://www.kumbiaphp.com/blog/2017/02/20/kumbiaphp-y-netbeans-ide-los-mejores-amigos/
-- http://php.net/manual/es/language.types.array.php
-- https://www.geeksforgeeks.org/php-arrays/
-- https://diego.com.es/arrays-en-php
-- http://php.net/manual/es/functions.user-defined.php
-- https://desarrolloweb.com/articulos/312.php
-- https://www.youtube.com/watch?v=xPci19sTjek&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_&index=30
-- https://www.youtube.com/watch?v=vzt7sdRMs84&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_&index=31
-- https://www.youtube.com/watch?v=uU9jlYQHGQw&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_&index=32
-- https://www.youtube.com/watch?v=omyhodE5UW4&index=20&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_
-- https://www.youtube.com/watch?v=Oq6DGQdvA1s&index=21&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_
+
+**Arrays**
+
+- PHP 5 Tutorial [https://www.w3schools.com/php/default.asp](https://www.w3schools.com/php/default.asp)
+- Arrays http://php.net/manual/es/language.types.array.php
+- Arrays https://www.geeksforgeeks.org/php-arrays/
+- Arrays https://diego.com.es/arrays-en-php
 - Más ejemplos de arrays  http://www.manualphp.factorcomun.net/sintaxis/array-en-array.php
 - Más ejemplos de arrays  http://www.manualphp.factorcomun.net/sintaxis/array-ejercicio-facturas.php
 - https://www.anerbarrena.com/php-array-tipos-ejemplos-3876/
 - https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_PHP/Intermedio/Arrays
 - http://www.mclibre.org/consultar/php/lecciones/php-matrices.html
+
+**Funciones**
+- Funciones http://php.net/manual/es/functions.user-defined.php
+- Funciones https://desarrolloweb.com/articulos/312.php
 
 
 ## ED
