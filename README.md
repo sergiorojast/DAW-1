@@ -2,6 +2,8 @@
 
 ## DWEC
 
+**Extensiones Visual Studio Code**
+- Live Server
 - [https://caniuse.com/](https://caniuse.com/) Compatibility check for HTML5, CSS3, SVG, New JS API based on http://caniuse.com/ directly from Visual Studio Code
 
 ## DWES
@@ -57,11 +59,11 @@
 - Ejemplos de web simétricas / asimétricas http://www.staffcreativa.pe/blog/principios-diseno-de-paginas-web-simetria-y-asimetria/
 - Principio de figura fondo y de tamaño relativo, Principio de cierre y semejanza https://www.dobuss.es/
 
-
 ## DAW
-- Apache https://www.youtube.com/watch?v=8_GJH5xu3bk
+- Vídeo Instalación de Apache https://www.youtube.com/watch?v=8_GJH5xu3bk
 - Manual de Kali http://www.reydes.com/archivos/Kali_Linux_v2_ReYDeS.pdf
 - Redes de área local Aplicaciones y Servicios Linux http://www.ite.educacion.es/formacion/materiales/85/cd/index.htm
 - Redes de área local Aplicaciones y Servicios Linux (PDF)  http://blogofsysadmins.com/wp-content/uploads/2010/01/curso-redes-ubuntu.pdf
 
 ## SEO
+- ¿Qué es Search console? https://support.google.com/webmasters/answer/4559176?hl=es
