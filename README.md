@@ -35,6 +35,13 @@
 - http://php.net/manual/es/functions.user-defined.php
 - https://desarrolloweb.com/articulos/312.php
 
+**Formularios**
+- https://diego.com.es/formularios-en-php
+- https://aprende-web.net/php/php3_3.php
+
+**Leer archivos**
+- https://aprenderaprogramar.com/index.php?option=com_content&view=article&id=585:leer-y-escribir-archivos-de-texto-con-php-funcion-fopen-modo-fgets-fputs-fclose-y-feof-ejemplo-cu00836b&catid=70&Itemid=193
+
 
 ## ED
 - Los libros de informática más recomendados en la Universidad...https://ingenieriadesoftware.es/libros-informatica-recomendados-universidad/
