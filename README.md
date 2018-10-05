@@ -39,7 +39,7 @@
 ## ED
 - Los libros de informática más recomendados en la Universidad...https://ingenieriadesoftware.es/libros-informatica-recomendados-universidad/
 - Hola mundo en 47 lenguajes https://educacionadistancia.juntadeandalucia.es/cursos/mod/forum/discuss.php?d=4581
-- 
+- ¿Cómo Estimar Un Proyecto De Software? https://altenwald.org/2018/10/04/como-estimar-proyecto-de-software/
 
 ## DIW
 - ¿Por qué los diseñadores deben aprender a programar? https://blog.aulaformativa.com/por-que-los-disenadores-deben-aprender-a-programar/
