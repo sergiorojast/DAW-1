@@ -6,7 +6,12 @@
 
 ## DWES
 
-- https://www.w3schools.com/php/default.asp
+### U01
+
+- PHP 5 Tutorial [https://www.w3schools.com/php/default.asp](https://www.w3schools.com/php/default.asp)
+
+**Configuración de NetBeans para PHP**
+
 - PHP Development https://netbeans.org/features/php/
 - NetBeans IDE PHP Quick Start Tutorial https://netbeans.org/kb/docs/php/quickstart.html
 - How to Download & Install XAMPP & NetBeans: PHP Tutorial https://www.guru99.com/xampp-netbeans.html
