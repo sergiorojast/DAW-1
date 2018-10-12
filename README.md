@@ -1,9 +1,9 @@
 # Enlaces 2DAW IES Trassierra (2018-2019)
 
 # Table of Contents
-1. [DWEC](#DWEC)
-2. [DWES](#DWES)
-3. [ED](#ED)
+1. [DWEC](##DWEC)
+2. [DWES](##DWES)
+3. [ED](##ED)
 
 ## DWEC
 
@@ -45,6 +45,16 @@
 **Formularios**
 - https://diego.com.es/formularios-en-php
 - https://aprende-web.net/php/php3_3.php
+
+**Validación de formularios lado del cliente**
+- https://cybmeta.com/validacion-de-formularios-con-html5
+- https://fluidattacks.com/web/es/defends/html/validar-formulario/
+- https://lenguajehtml.com/p/html/formularios/validaciones-html5
+- https://developer.mozilla.org/es/docs/Learn/HTML/Forms/Validacion_formulario_datos
+
+**Validación de formularios lado del servidor**
+- http://webcheatsheet.com/javascript/form_validation.php
+- https://librosweb.es/libro/javascript/capitulo-7/validacion.html
 
 **Leer archivos**
 - https://aprenderaprogramar.com/index.php?option=com_content&view=article&id=585:leer-y-escribir-archivos-de-texto-con-php-funcion-fopen-modo-fgets-fputs-fclose-y-feof-ejemplo-cu00836b&catid=70&Itemid=193
