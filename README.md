@@ -51,6 +51,7 @@
 - https://fluidattacks.com/web/es/defends/html/validar-formulario/
 - https://lenguajehtml.com/p/html/formularios/validaciones-html5
 - https://developer.mozilla.org/es/docs/Learn/HTML/Forms/Validacion_formulario_datos
+- http://html5pattern.com/Names
 
 **Validación de formularios lado del servidor**
 - http://webcheatsheet.com/javascript/form_validation.php
