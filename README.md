@@ -83,3 +83,5 @@
 
 ## SEO
 - ¿Qué es Search console? https://support.google.com/webmasters/answer/4559176?hl=es
+- Ayuda Analytics [https://support.google.com/analytics/?hl=es#topic=3544906](https://support.google.com/analytics/?hl=es#topic=3544906)
+- Cómo prepararse para Google Analytics IQ [https://support.google.com/analytics/answer/3424288](https://support.google.com/analytics/answer/3424288)
