@@ -82,6 +82,14 @@
 - Redes de área local Aplicaciones y Servicios Linux (PDF)  http://blogofsysadmins.com/wp-content/uploads/2010/01/curso-redes-ubuntu.pdf
 
 ## SEO
+- Analítica web https://es.wikipedia.org/wiki/Anal%C3%ADtica_web
 - ¿Qué es Search console? https://support.google.com/webmasters/answer/4559176?hl=es
 - Ayuda Analytics [https://support.google.com/analytics/?hl=es#topic=3544906](https://support.google.com/analytics/?hl=es#topic=3544906)
 - Cómo prepararse para Google Analytics IQ [https://support.google.com/analytics/answer/3424288](https://support.google.com/analytics/answer/3424288)
+- Crear y administrar informes personalizados https://support.google.com/analytics/answer/1151300?hl=es
+- Activar la función Comercio electrónico mejorado en una vista https://support.google.com/analytics/answer/6032539?hl=es
+- Conversiones https://support.google.com/analytics/topic/1631741?hl=es&ref_topic=3544907
+- Requisitos de la política sobre las Funciones publicitarias de Google Analytics https://support.google.com/analytics/answer/2700409?hl=es&vid=1-635768904410289600-3688397329
+- Tag Assistant (by Google) https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk
+- Configurar el seguimiento de Analytics con gtag.js https://support.google.com/analytics/answer/1008080?hl=es
+- 
