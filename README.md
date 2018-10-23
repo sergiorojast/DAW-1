@@ -8,8 +8,9 @@
 ## DWEC
 
 **Extensiones Visual Studio Code**
-- Live Server
+- Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - [https://caniuse.com/](https://caniuse.com/) Compatibility check for HTML5, CSS3, SVG, New JS API based on http://caniuse.com/ directly from Visual Studio Code
+- Bracket Pair Colorizer https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 
 ## DWES
 
@@ -60,6 +61,8 @@
 **Leer archivos**
 - https://aprenderaprogramar.com/index.php?option=com_content&view=article&id=585:leer-y-escribir-archivos-de-texto-con-php-funcion-fopen-modo-fgets-fputs-fclose-y-feof-ejemplo-cu00836b&catid=70&Itemid=193
 
+**POO**
+- ...
 
 ## ED
 - Los libros de informática más recomendados en la Universidad...https://ingenieriadesoftware.es/libros-informatica-recomendados-universidad/
@@ -75,11 +78,17 @@
 - Ejemplos de web simétricas / asimétricas http://www.staffcreativa.pe/blog/principios-diseno-de-paginas-web-simetria-y-asimetria/
 - Principio de figura fondo y de tamaño relativo, Principio de cierre y semejanza https://www.dobuss.es/
 
+## CSS
+- Introducción a CSS - Libros WEB https://librosweb.es/libro/css/
+- Ejercicios prácticos de CSS http://www.ticarte.com/contenido/ejercicios-practicos-de-css
+
 ## DAW
 - Vídeo Instalación de Apache https://www.youtube.com/watch?v=8_GJH5xu3bk
 - Manual de Kali http://www.reydes.com/archivos/Kali_Linux_v2_ReYDeS.pdf
 - Redes de área local Aplicaciones y Servicios Linux http://www.ite.educacion.es/formacion/materiales/85/cd/index.htm
 - Redes de área local Aplicaciones y Servicios Linux (PDF)  http://blogofsysadmins.com/wp-content/uploads/2010/01/curso-redes-ubuntu.pdf
+- Directivas de Apache https://tutobasico.com/directivas-apache/
+- Cómo crear un virtual host https://geekytheory.com/como-configurar-un-virtual-host-de-apache-en-linux
 
 ## SEO
 - Analítica web https://es.wikipedia.org/wiki/Anal%C3%ADtica_web
