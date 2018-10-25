@@ -11,6 +11,12 @@
 - Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - [https://caniuse.com/](https://caniuse.com/) Compatibility check for HTML5, CSS3, SVG, New JS API based on http://caniuse.com/ directly from Visual Studio Code
 - Bracket Pair Colorizer https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+- Eslint https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- HTML CSS Support https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+- Html Snippes https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets 
+- JavaScript (ES6) https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+- vscode-icons https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
+- Debbuger for Chrome https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 
 ## DWES
 
