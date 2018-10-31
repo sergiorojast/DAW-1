@@ -1,7 +1,7 @@
 ## Front-End
 
 ### Lenguajes
-- HTML5
+- HTML
 - CSS (Precompiladores SASS)
 - JavaScript
 - Ruby on Rails
@@ -30,6 +30,7 @@ Git
 - PHP
 - Java
 - .Net
+- Python
 
 ## UX/UI
 
