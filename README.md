@@ -30,6 +30,10 @@
 - Cómo añadir el plugin PHP en NetBeans IDE  http://www.zeppelinux.es/como-anadir-el-plugin-php-en-netbeans-ide/
 - NetBeans IDE y PHP, los mejores amigos https://www.kumbiaphp.com/blog/2017/02/20/kumbiaphp-y-netbeans-ide-los-mejores-amigos/
 
+**Configuración de Visual Studio Code para PHP**
+- PHP in Visual Studio Code https://code.visualstudio.com/docs/languages/php
+- PHP Getters & Setters https://marketplace.visualstudio.com/items?itemName=phproberto.vscode-php-getters-setters
+
 **Lista Youtube**
 
 - Curso PHP Píldoras
