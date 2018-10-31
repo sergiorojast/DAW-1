@@ -1,11 +1,12 @@
 ## Front-End
+- A Modern Day Front-End Development Stack https://www.linux.com/blog/learn/2017/7/modern-day-front-end-development-stack
 
 ### Lenguajes
 - HTML
 - CSS (Precompiladores SASS)
-- JavaScript
+- JavaScript, JQguery
 - Ruby on Rails
-
+- ¿Typescript?
 ### Framework
 - React
 - VUE
@@ -21,7 +22,7 @@
 - Rspec
 
 ## Otros
-Git
+- Git
 - Heroku
 - PostgreSQL
 - BaseCamp
