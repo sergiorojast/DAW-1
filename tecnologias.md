@@ -10,6 +10,8 @@
 - React
 - VUE
 - Ember
+- Angular
+- Backbone.js
 - Bootstrap
 
 ### Automatización
@@ -31,6 +33,10 @@ Git
 - Java
 - .Net
 - Python
+
+### Framework
+- Laravel
+- Symphony
 
 ## UX/UI
 
