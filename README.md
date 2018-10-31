@@ -95,6 +95,8 @@
 - Redes de área local Aplicaciones y Servicios Linux (PDF)  http://blogofsysadmins.com/wp-content/uploads/2010/01/curso-redes-ubuntu.pdf
 - Directivas de Apache https://tutobasico.com/directivas-apache/
 - Cómo crear un virtual host https://geekytheory.com/como-configurar-un-virtual-host-de-apache-en-linux
+- Manual básico de creación de Host virtuales en Apache http://www.maestrosdelweb.com/host/
+- ¿Cómo configurar Virtual Hosts de Apache en Ubuntu 16.04? https://www.digitalocean.com/community/tutorials/como-configurar-virtual-hosts-de-apache-en-ubuntu-16-04-es
 
 ## SEO
 - Analítica web https://es.wikipedia.org/wiki/Anal%C3%ADtica_web
