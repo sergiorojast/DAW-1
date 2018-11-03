@@ -18,6 +18,9 @@
 - vscode-icons https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
 - Debbuger for Chrome https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 
+**Herramientas**
+- Validador de expresioens regulares https://www.regextester.com/
+
 ## DWES
 
 ### U01
