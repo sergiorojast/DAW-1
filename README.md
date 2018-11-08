@@ -21,6 +21,9 @@
 **Herramientas**
 - Validador de expresioens regulares https://www.regextester.com/
 
+**Array**
+- Métodos https://www.w3schools.com/js/js_array_methods.asp
+
 ## DWES
 
 ### U01
