@@ -32,6 +32,7 @@
 - How to Download & Install XAMPP & NetBeans: PHP Tutorial https://www.guru99.com/xampp-netbeans.html
 - Cómo añadir el plugin PHP en NetBeans IDE  http://www.zeppelinux.es/como-anadir-el-plugin-php-en-netbeans-ide/
 - NetBeans IDE y PHP, los mejores amigos https://www.kumbiaphp.com/blog/2017/02/20/kumbiaphp-y-netbeans-ide-los-mejores-amigos/
+- Configuración de entorno para poder debugar php con NetBeans http://www.enterpriseconsulting.es/blog/configuracion-entorno-poder-debugar-php-netbeans/
 
 **Configuración de Visual Studio Code para PHP**
 - PHP in Visual Studio Code https://code.visualstudio.com/docs/languages/php
