@@ -26,8 +26,6 @@
 
 ## DWES
 
-### U01
-
 **Configuración de NetBeans para PHP**
 
 - PHP Development https://netbeans.org/features/php/
@@ -80,6 +78,13 @@
 
 **POO**
 - ...
+
+**CRUD**
+- PHP MySQL CRUD Application https://www.tutorialrepublic.com/php-tutorial/php-mysql-crud-application.php
+- http://codigoxules.org/proyecto-php-crud-con-mysql-php-crud-1/
+- https://www.ecodeup.com/crud-en-php-para-principiantes/
+- https://obedalvarado.pw/blog/crear-una-aplicacion-crud-con-php-usando-programacion-orientada-a-objetos/ (este es muy mono con objetos, iconos y muy bonico en diseño y tienes el código)
+- https://www.youtube.com/watch?v=pFS11xUB5Pw
 
 ## ED
 - Los libros de informática más recomendados en la Universidad...https://ingenieriadesoftware.es/libros-informatica-recomendados-universidad/
