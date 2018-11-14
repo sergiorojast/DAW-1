@@ -100,9 +100,18 @@
 - Ejemplos de web simétricas / asimétricas http://www.staffcreativa.pe/blog/principios-diseno-de-paginas-web-simetria-y-asimetria/
 - Principio de figura fondo y de tamaño relativo, Principio de cierre y semejanza https://www.dobuss.es/
 
-## CSS
+### CSS
 - Introducción a CSS - Libros WEB https://librosweb.es/libro/css/
 - Ejercicios prácticos de CSS http://www.ticarte.com/contenido/ejercicios-practicos-de-css
+### CSS GRid
+- https://neliosoftware.com/es/blog/css-grid-futuro-diseno-web-ya-esta-aqui/
+- https://lenguajecss.com/p/css/propiedades/grid-css
+- http://cssgridgarden.com/#es
+- https://webdesign.tutsplus.com/es/tutorials/create-a-broken-grid-layout-using-css-grid--cms-30870
+- https://desarrolloweb.com/articulos/que-es-css-grid-layout.html
+- Guía completa de CSS Grid en CSS Tricks. https://css-tricks.com/snippets/css/complete-guide-grid/ 
+- CSS Grid Layout en Mozilla. https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout Aunque un poco menos completo que el recurso anterior, su sencillez te permite encontrar rápidamente el nombre de la propiedad que te interesa.
+- Ejemplos de Grid. https://gridbyexample.com/examples/ Una variada colección de ejemplos de parrillas. 
 
 ## DAW
 - Vídeo Instalación de Apache https://www.youtube.com/watch?v=8_GJH5xu3bk
