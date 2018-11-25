@@ -39,6 +39,11 @@
 - PHP in Visual Studio Code https://code.visualstudio.com/docs/languages/php
 - PHP Getters & Setters https://marketplace.visualstudio.com/items?itemName=phproberto.vscode-php-getters-setters
 
+** Depuración de código**
+- http://www.millergomez.com/2016/08/debug-php-con-netbeans-y-xampp.html
+- https://proyectosbeta.net/2017/08/configurar-xdebug-para-netbeans-en-ubuntu-xenial-xerus-16-04-lts-con-php-7-0/
+- https://jimfrenette.com/2016/03/xdebug-for-xampp-on-os-x/
+
 **Lista Youtube**
 
 - Curso PHP Píldoras
