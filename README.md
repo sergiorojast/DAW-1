@@ -117,6 +117,7 @@
 - Guía completa de CSS Grid en CSS Tricks. https://css-tricks.com/snippets/css/complete-guide-grid/ 
 - CSS Grid Layout en Mozilla. https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout Aunque un poco menos completo que el recurso anterior, su sencillez te permite encontrar rápidamente el nombre de la propiedad que te interesa.
 - Ejemplos de Grid. https://gridbyexample.com/examples/ Una variada colección de ejemplos de parrillas. 
+- https://drafts.csswg.org/css-grid/
 
 ## DAW
 - Vídeo Instalación de Apache https://www.youtube.com/watch?v=8_GJH5xu3bk
