@@ -108,6 +108,7 @@
 ### CSS
 - Introducción a CSS - Libros WEB https://librosweb.es/libro/css/
 - Ejercicios prácticos de CSS http://www.ticarte.com/contenido/ejercicios-practicos-de-css
+- *** Muy recomendable https://github.com/IgnaciodeNuevo/personal-goals
 ### CSS GRid
 - https://neliosoftware.com/es/blog/css-grid-futuro-diseno-web-ya-esta-aqui/
 - https://lenguajecss.com/p/css/propiedades/grid-css
