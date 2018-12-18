@@ -14,12 +14,18 @@
 - Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - [https://caniuse.com/](https://caniuse.com/) Compatibility check for HTML5, CSS3, SVG, New JS API based on http://caniuse.com/ directly from Visual Studio Code
 - Bracket Pair Colorizer https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
-- Eslint https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- Eslint Permite integrar el linter de javascript en el VSCode para lintear nuestro código javascript cómodamente. https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 - HTML CSS Support https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 - Html Snippes https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets 
 - JavaScript (ES6) https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
 - vscode-icons https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
 - Debbuger for Chrome https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+- Color info: nos provee de información sobre los colores cuando estamos añadiendo estilos y tiene un color picker para modificarlos.
+- Markdown Preview: nos permite previsualizar archivos markdown como los Readme. Es muy útil para ver como van quedando tus archivos readme según los redactas.
+- Git history: permite ver información sobre las ramas y el trabajo en el repositorio.
+- StyleLint: un linter para nuestros estilos que nos ayuda a escribir css / less y/o scss mas limpio.
+- Prettier: auto formatea el código que escribes según las reglas que definamos.
+- EditorConfig for VS Code: nos permite leer la configuración de un fichero .editorconfig y configurar nuestro VSCode respecto a sus reglas.
 
 **Herramientas**
 - Validador de expresioens regulares https://www.regextester.com/
