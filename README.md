@@ -1,6 +1,6 @@
 # Enlaces 2DAW IES Trassierra (2018-2019)
 
-# Table of Contents
+# Contenidos
 1. [DWEC](#dwec)
 2. [DWES](#dwes)
 3. [ED](#ed)
