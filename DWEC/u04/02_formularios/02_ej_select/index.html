@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+</head>
+
+<body>
+
+    <h1>Trabajando con un objeto Select</h1>
+    <form id="formulario" action="pagina.php">
+        <p>
+            <label for="provincias">Seleccione provincia:</label>
+            <select name="provincias" id="provincias">
+                <option value="C">La Coruña</option>
+                <option value="LU">Lugo</option>
+                <option value="OU">Ourense</option>
+                <option value="PO">Pontevedra</option>
+            </select>
+        </p>
+        Selecciona una opción y pulsa el botón.
+        <input type="button" name="boton" value="Consultar información de la opción" onclick="consultar()" />
+    </form>
+    <script src="main.js"></script>
+</body>
+
+</html>

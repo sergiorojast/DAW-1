@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+
+<head>
+    <title>TODO supply a title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel=stylesheet href="EstiloFormulario.css">
+
+</head>
+
+<body>
+    <form name="formulario">
+        <div>
+            <label for="nombre">Nombre:</label>
+            <input type="text" size="20" id="nombre" required placeholder="Introduzca nombre" autofocus>
+            <span class="error" id="errorNombre"></span>
+
+        </div>
+
+        <div>
+            <label for="edad">Edad:</label>
+            <input type="number" size="3" maxlength=3 id="edad" min=1 max=99 required placeholder="Introduzca edad">
+            <span class="error" id="errorEdad"></span>
+        </div>
+
+        <div>
+            <label for="fecha">Fecha:</label>
+            <input type="date" size="8" maxlength=10 id="fecha" required>
+            <span class="error" id="errorFecha"></span>
+        </div>
+        <div>
+            <label for="genero">Genero:</label>
+            <label for="generoM">Mujer</label>
+            <input type="radio" id="generoM" name="genero" value='M'>
+            <label for="generoV">Hombre</label>
+            <input type="radio" id="sexoV" name="genero" value='V'>
+            <span class="error" id="errorGenero"></span>
+        </div>
+
+        <div>
+            <label for="provincia">Provincia:</label>
+            <select id="provincia" required>
+                <option>Elija provincia</option>
+                <option value="Al">Almeria</option>
+                <option value="Ca">Cádiz</option>
+                <option value="Co">Córdoba</option>
+                <option value="Sev">Sevilla</option>
+            </select>
+            <span class="error" id="errorProvincia"></span>
+        </div>
+        <div>
+            <!-- Obtiene return no envia -->
+            <input class="btn" type="submit" onclick="return comprobar()"> 
+            
+            <input class="btn" type="reset">
+        </div>
+
+        <div>
+            
+            <span class="error" id="errorCaptcha"></span>
+
+        </div>
+    </form>
+    <script src="main.js"></script>
+</body>
+
+</html>

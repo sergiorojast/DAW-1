@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        "user strict";
+
+        // Variables
+
+        var text = "     La cAsa, De manolo, es roja";
+
+        // Función print
+
+        function print(texto) {
+            document.write('<p>' + texto + '</p>')
+        }
+
+        // ------------TEXTO------------
+        print(text);
+        print(text);
+        print(text.length);
+
+        var long = 'manolo'.length;
+
+        // print(long);
+        // print(text.indexOf('manolo'));
+
+        // var manolo = text.substr(text.indexOf('manolo'), long);
+        print(text.indexOf('a'));
+        print(text.lastIndexOf('a'));
+
+        print(text.toUpperCase());
+        print(text.toLowerCase());
+
+        text2 = text.replace('manolo', 'Juan');
+        print(text2);
+
+        print(text.replace(/a/g, ''));
+        print(text.replace(/a/gi, ''));
+
+
+        var txt1 = 'Hola';
+        var txt2 = "Pepe"
+
+        print('<b>Concatenar.</b>');
+        print(txt1.concat(txt2));
+
+        print('<b>Split.</b>');
+
+        var txtSplit = text.split(",");
+
+        for (cade in txtSplit) {
+            print(txtSplit[cade]);
+        }
+
+        print('<b>Slice.</b>');
+
+        print(text.slice(0));
+        print(text.slice(0, 5));
+        print(text.slice(-1));
+        print(text.slice(-10, -1));
+
+        print('<b>Trim.</b>');
+
+        print(text.trim())
+
+    </script>
+</body>
+
+</html>
