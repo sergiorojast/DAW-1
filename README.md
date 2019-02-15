@@ -100,6 +100,9 @@
 - https://obedalvarado.pw/blog/crear-una-aplicacion-crud-con-php-usando-programacion-orientada-a-objetos/ (este es muy mono con objetos, iconos y muy bonico en diseño y tienes el código)
 - https://www.youtube.com/watch?v=pFS11xUB5Pw
 
+**Laravel**
+- Instalar Laravel en Linux https://ubunlog.com/composer-administrador-dependencias-php/
+
 ## ED
 - Los libros de informática más recomendados en la Universidad...https://ingenieriadesoftware.es/libros-informatica-recomendados-universidad/
 - Hola mundo en 47 lenguajes https://educacionadistancia.juntadeandalucia.es/cursos/mod/forum/discuss.php?d=4581
