@@ -38,25 +38,25 @@ public class EntradaClienteTest {
     }
 
     /**
-     * Test of validarEntrada method, of class EntradaCliente.
+     * Test of validarEntrada method, of class EntradaCliente2.
      */
     @Test
     public void testValidarEntrada() {
         System.out.println("validarEntrada");
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         instance.validarEntrada();
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
 
     /**
-     * Test of compruebaNombre method, of class EntradaCliente.
+     * Test of compruebaNombre method, of class EntradaCliente2.
      */
     @Test
     public void testCompruebaNombre1() {
         System.out.println("compruebaNombre");
         String nombre = "PEPE PEPE PEPE";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = true;
         boolean result = instance.compruebaNombre(nombre);
         assertEquals(expResult, result);
@@ -65,13 +65,13 @@ public class EntradaClienteTest {
     }
 
     /**
-     * Test of compruebaNombre method, of class EntradaCliente.
+     * Test of compruebaNombre method, of class EntradaCliente2.
      */
     @Test
     public void testCompruebaNombre2() {
         System.out.println("compruebaNombre");
         String nombre = "pepe pepe pepe";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.compruebaNombre(nombre);
         assertEquals(expResult, result);
@@ -83,7 +83,7 @@ public class EntradaClienteTest {
     public void testCompruebaNombre3() {
         System.out.println("compruebaNombre");
         String nombre = "PEPE";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.compruebaNombre(nombre);
         assertEquals(expResult, result);
@@ -95,7 +95,7 @@ public class EntradaClienteTest {
     public void testCompruebaNombre4() {
         System.out.println("compruebaNombre");
         String nombre = "MARTÍN PEPE PEPE";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.compruebaNombre(nombre);
         assertEquals(expResult, result);
@@ -104,13 +104,13 @@ public class EntradaClienteTest {
     }
 
     /**
-     * Test of CompruebaDNI method, of class EntradaCliente.
+     * Test of CompruebaDNI method, of class EntradaCliente2.
      */
     @Test
     public void testCompruebaDNI1() {
         System.out.println("CompruebaDNI");
         String dni = "30831685R";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = true;
         boolean result = instance.CompruebaDNI(dni);
         assertEquals(expResult, result);
@@ -122,7 +122,7 @@ public class EntradaClienteTest {
     public void testCompruebaDNI2() {
         System.out.println("CompruebaDNI");
         String dni = "30831685";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.CompruebaDNI(dni);
         assertEquals(expResult, result);
@@ -134,7 +134,7 @@ public class EntradaClienteTest {
     public void testCompruebaDNI3() {
         System.out.println("CompruebaDNI");
         String dni = "30831685T";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.CompruebaDNI(dni);
         assertEquals(expResult, result);
@@ -143,13 +143,13 @@ public class EntradaClienteTest {
     }
 
     /**
-     * Test of validarFecha method, of class EntradaCliente.
+     * Test of validarFecha method, of class EntradaCliente2.
      */
     @Test
     public void testValidarFecha1() {
         System.out.println("validarFecha");
         String fecha = "26/04/2019";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = true;
         boolean result = instance.validarFecha(fecha);
         assertEquals(expResult, result);
@@ -161,7 +161,7 @@ public class EntradaClienteTest {
     public void testValidarFecha2() {
         System.out.println("validarFecha");
         String fecha = "2019/04/26";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.validarFecha(fecha);
         assertEquals(expResult, result);
@@ -173,7 +173,7 @@ public class EntradaClienteTest {
     public void testValidarFecha3() {
         System.out.println("validarFecha");
         String fecha = "31/04/2019";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.validarFecha(fecha);
         assertEquals(expResult, result);
@@ -185,7 +185,7 @@ public class EntradaClienteTest {
     public void testValidarFecha4() {
         System.out.println("validarFecha");
         String fecha = "26-04-1976";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.validarFecha(fecha);
         assertEquals(expResult, result);
@@ -194,13 +194,13 @@ public class EntradaClienteTest {
     }
 
     /**
-     * Test of validarDias method, of class EntradaCliente.
+     * Test of validarDias method, of class EntradaCliente2.
      */
     @Test
     public void testValidarDias1() {
         System.out.println("validarDias");
         String dias = "2";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = true;
         boolean result = instance.validarDias(dias);
         assertEquals(expResult, result);
@@ -212,7 +212,7 @@ public class EntradaClienteTest {
     public void testValidarDias2() {
         System.out.println("validarDias");
         String dias = "30";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = true;
         boolean result = instance.validarDias(dias);
         assertEquals(expResult, result);
@@ -224,7 +224,7 @@ public class EntradaClienteTest {
     public void testValidarDias3() {
         System.out.println("validarDias");
         String dias = "1";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.validarDias(dias);
         assertEquals(expResult, result);
@@ -236,7 +236,7 @@ public class EntradaClienteTest {
     public void testValidarDias4() {
         System.out.println("validarDias");
         String dias = "31";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.validarDias(dias);
         assertEquals(expResult, result);
@@ -245,13 +245,13 @@ public class EntradaClienteTest {
     }
 
     /**
-     * Test of comprobarCuenta method, of class EntradaCliente.
+     * Test of comprobarCuenta method, of class EntradaCliente2.
      */
     @Test
     public void testComprobarCuenta1() {
         System.out.println("comprobarCuenta");
         String cuenta = "ES6621000418401234567891";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = true;
         boolean result = instance.comprobarCuenta(cuenta);
         assertEquals(expResult, result);
@@ -263,7 +263,7 @@ public class EntradaClienteTest {
     public void testComprobarCuenta2() {
         System.out.println("comprobarCuenta");
         String cuenta = "es6621000418401234567891";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = true;
         boolean result = instance.comprobarCuenta(cuenta);
         assertEquals(expResult, result);
@@ -275,7 +275,7 @@ public class EntradaClienteTest {
     public void testComprobarCuenta3() {
         System.out.println("comprobarCuenta");
         String cuenta = "ES66210004184012345";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.comprobarCuenta(cuenta);
         assertEquals(expResult, result);
@@ -287,7 +287,7 @@ public class EntradaClienteTest {
     public void testComprobarCuenta4() {
         System.out.println("comprobarCuenta");
         String cuenta = "006621000418401234567891";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.comprobarCuenta(cuenta);
         assertEquals(expResult, result);
@@ -298,7 +298,7 @@ public class EntradaClienteTest {
     public void testComprobarCuenta5() {
         System.out.println("comprobarCuenta");
         String cuenta = "XX6621000418401234567891";
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         boolean expResult = false;
         boolean result = instance.comprobarCuenta(cuenta);
         assertEquals(expResult, result);
@@ -307,25 +307,25 @@ public class EntradaClienteTest {
     }
 
     /**
-     * Test of calcularFacturaYGrabarDatos method, of class EntradaCliente.
+     * Test of calcularFacturaYGrabarDatos method, of class EntradaCliente2.
      */
     @Test
     public void testCalcularFacturaYGrabarDatos() {
         System.out.println("calcularFacturaYGrabarDatos");
-        EntradaCliente instance = new EntradaCliente();
+        EntradaCliente2 instance = new EntradaCliente2();
         instance.calcularFacturaYGrabarDatos();
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
 
     /**
-     * Test of main method, of class EntradaCliente.
+     * Test of main method, of class EntradaCliente2.
      */
     @Test
     public void testMain() {
         System.out.println("main");
         String[] args = null;
-        EntradaCliente.main(args);
+        EntradaCliente2.main(args);
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }

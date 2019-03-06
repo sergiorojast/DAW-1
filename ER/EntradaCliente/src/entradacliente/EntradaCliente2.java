@@ -7,13 +7,13 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-class EntradaCliente {
+class EntradaCliente2 {
 
     private int numdias, factura;
     private String dni, nombre, fecha, dias, cuenta;
     final String LETRAS_DNI = "TRWAGMYFPDXBNJZSQVHLCKE";
 
-    public EntradaCliente() {
+    public EntradaCliente2() {
     }
 
     public void validarEntrada() {
@@ -165,9 +165,9 @@ class EntradaCliente {
     }
 
     public static void main(String[] args) {
-        //EntradaCliente cliente = new EntradaCliente();
+        //EntradaCliente cliente = new EntradaCliente2();
         //cliente.validarEntrada();
-        new EntradaCliente().validarEntrada();
+        new EntradaCliente2().validarEntrada();
 
         System.out.println("Finalizado");
     }
