@@ -107,6 +107,18 @@
 - Los libros de informática más recomendados en la Universidad...https://ingenieriadesoftware.es/libros-informatica-recomendados-universidad/
 - Hola mundo en 47 lenguajes https://educacionadistancia.juntadeandalucia.es/cursos/mod/forum/discuss.php?d=4581
 - ¿Cómo Estimar Un Proyecto De Software? https://altenwald.org/2018/10/04/como-estimar-proyecto-de-software/
+- Refactorización en Netbeans http://wiki.netbeans.org/Refactoring
+- Analizador de código en Netbeans FindBugs
+- Complemento Netbeans plug-in para easyPMD. http://plugins.netbeans.org/plugin/57270/easypmd
+- Creación de reglas para PMD, en inglés http://pmd.sourceforge.net/pmd-4.3.0/howtomakearuleset.html
+- Usar Git con Netbeans https://netbeans.org/kb/docs/ide/git.html
+- Integrar Netbeans con Github https://lineaporlinea.wordpress.com/2014/01/19/integrar-netbeans-con-github/
+- Sencillo tutorial sobre las opciones de refactorización en Netbeans: https://jadcode.wordpress.com/2014/06/25/refactorizacion/
+- Analizadores de código estático "FindBugs and NetBeans Java Hintsen" en NetBeans:  https://netbeans.org/kb/docs/java/code-inspect.html
+- Tutorial de GIT con NETBEANS con un ejemplo con HTML y CSS: http://www.jc-mouse.net/php/control-de-versiones-con-git-y-netbeans
+- Tutorial de GITHUB con NETBEANS con un ejemplo: http://www.jc-mouse.net/proyectos/guia-basica-trabajando-con-github-y-netbeans
+- Tutorial generación de documentación con JavaDoc: http://tutorialesjavase.blogspot.com.es/2015/07/tutorial-05-comentarios-en-el-codigo.html
+- Tutorial sobre el uso del API JSDoc 3 para generar de documentación JavaScript: http://usejsdoc.org/about-getting-started.html
 
 ## DIW
 - ¿Por qué los diseñadores deben aprender a programar? https://blog.aulaformativa.com/por-que-los-disenadores-deben-aprender-a-programar/
