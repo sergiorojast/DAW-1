@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        #lienzo {
+            border: solid 3px #4682B4;
+            background: #FFFFE0;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <p>Efectos</p>
+
+
+    <canvas id="lienzo" width="400" height="400">Su navedor no permite Canas</canvas>
+
+    <script>
+        var canvas = document.getElementById("lienzo");
+        var lienzo = canvas.getContext("2d");
+
+        var gradient = lienzo.createLinearGradient(0, 0,0, 145);
+        gradient.addColorStop(0, "#00ABEB");
+        gradient.addColorStop(0.5, "yellow");
+        gradient.addColorStop(0.8, "green");
+        gradient.addColorStop(1, "white");
+
+        lienzo.fillStyle = gradient;
+        lienzo.fillRect(5, 5, 145, 145);
+        
+
+    </script>
+</body>
+
+</html>

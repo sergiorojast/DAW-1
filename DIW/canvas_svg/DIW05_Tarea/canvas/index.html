@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        #lienzo {
+            border: solid 3px #4682B4;
+            background: #FFFFE0;
+        }
+
+        #lienzo2 {
+            border: solid 3px #4682B4;
+            background: #FFFFE0;
+        }
+    </style>
+
+</head>
+
+<body>
+    <p>Confeccionar una página con dos Canvas, el primero una figura geométrica y el segundo un patrón que se repita
+        cubriendo todo el área con la primera figura.</p>
+    <canvas id="lienzo" width="400" height="200">Su navedor no permite Canas</canvas>
+
+    <canvas id="lienzo2" width="400" height="400">Su navedor no permite Canas</canvas>
+
+    <script>
+        var canvas = document.getElementById("lienzo");
+        var lienzo = canvas.getContext("2d");
+
+   
+
+        // Cuadrado
+        lienzo.beginPath();
+        lienzo.rect(20, 40, 50, 50);
+        lienzo.fillStyle = "#FF0000";
+        lienzo.fill();
+        lienzo.closePath();
+
+          // Círculo
+        lienzo.beginPath();
+        lienzo.arc(240, 160, 20, 0, Math.PI * 2, false);
+        lienzo.fillStyle = "green";
+        lienzo.fill();
+        lienzo.closePath();
+
+        // Rectángulo
+
+        
+        lienzo.beginPath();
+        lienzo.rect(160, 10, 100, 40);
+        lienzo.strokeStyle = "rgba(0, 0, 255, 0.5)";
+        lienzo.stroke();
+        lienzo.closePath();
+
+        // Triángulo
+
+        lienzo.fillStyle="grey";
+        lienzo.strokeStyle="orange";
+        lienzo.lineWidth=1;
+        lienzo.beginPath();
+        lienzo.moveTo(150,110);
+        lienzo.lineTo(110,150);
+        lienzo.lineTo(150,150);
+        lienzo.lineTo(150,110);
+        lienzo.fill();
+        lienzo.stroke();    
+
+        var canvas2 = document.getElementById("lienzo2");
+        var lienzo2 = canvas2.getContext("2d");
+
+        var patron = lienzo2.createPattern(lienzo.canvas, 'repeat');
+        lienzo2.fillStyle = patron;
+        lienzo2.fillRect(0, 0, 500, 500);
+
+    </script>
+</body>
+
+</html>

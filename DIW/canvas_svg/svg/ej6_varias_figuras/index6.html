@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Actividad 5.6</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+    <h3>Actividad 5.6</h3>
+    <p>Realizar cuatro figuras a elegir de aproximadamente el mismo tamaño y hacer una animación utilizando estas.</p>
+
+    <svg width="400" height="400">
+
+
+        <text id="TextElement" x="0" y="0" font-family="Verdana" font-size="25.27" visibility="hidden">
+            SVGtolocoo!
+            <set attributeName="visibility" attributeType="CSS" to="visible" begin="3s" dur="6s" fill="freeze" />
+            <animateMotion path="M 0 0 L 100 100" begin="3s" dur="6s" fill="freeze" />
+            <animate attributeName="fill" attributeType="CSS" from="rgb(0,0,255)" to="rgb(128,0,0)" begin="3s" dur="6s"
+                fill="freeze" />
+            <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="-30" to="0" begin="3s"
+                dur="6s" fill="freeze" />
+            <animateTransform attributeName="transform" attributeType="XML" type="scale" from="1" to="3" additive="sum"
+                begin="3s" dur="6s" fill="freeze" />
+        </text>
+        <polygon points="10,70 80,70 45,10" stroke="purple" stroke-width=2 fill="aqua">
+            <animate id="r1" attributeType="CSS" attributeName="fill" from="aqua" to="blue" dur="2s" begin="r2.end" />
+        </polygon>
+
+        <ellipse cx=300 cy=150 rx=70 ry=20 stroke="green" stroke-width=2 fill="yellow">
+            <animate id="r2" attributeType="XML" attributeName="cx" values="300;70;300" dur="2s" begin="r3.end" />
+        </ellipse>
+
+        <rect x=10 y=230 width=80 height=60 fill="pink" stroke="navy" stroke-width="3">
+            <animate id="r3" attributeType="XML" attributeName="x" values="10;300;10" dur="2s" begin="0s;r1.end+2s" />
+        </rect>
+
+
+        <circle fill="#F7931E" r="20">
+            <animateMotion dur="3s" from="0,0" to="400,100" repeatCount="indefinite" />
+        </circle>
+        <circle fill="#F7931E" r="20">
+            <animateMotion dur="3s" from="0,0" to="100,400" repeatCount="indefinite" />
+        </circle>
+        <circle fill="#F7931E" r="20">
+            <animateMotion dur="3s" from="0,0" to="100,150" repeatCount="indefinite" />
+        </circle>
+
+    </svg>
+
+</body>
+
+</html>
