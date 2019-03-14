@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Ejercicio 2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+    <h2>Mostrar un círculo de color rosa que se desplace de izquierda a derecha. Cada vez que llega a la columna 300
+        hacer que comience nuevamente en la columna 0 </h2>
+
+    <svg width="300" height="300">
+        <circle fill="pink" r="50">
+            <animateMotion dur="3s" from="0,100" to="300,100" repeatCount="indefinite" />
+        </circle>
+
+    </svg>
+</body>
+
+</html>

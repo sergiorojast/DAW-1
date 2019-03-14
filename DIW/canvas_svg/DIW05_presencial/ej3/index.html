@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Ejercicio 3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+    <h2>Con la etiqueta svg que se dibuje un rectángulo de color verde con una anchura de 300 y una altura de 100 y
+        pasados unos segundos se transforme en un rectángulo de color rojo con una anchura de 800 y una altura de 300,
+        la transformación se ha de hacer gradual</h2>
+
+    <svg width="800" height="300">
+        <!-- color inicial -->
+        <rect width="300" height="100" style="fill:red;">
+            
+            <animate attributeName="height" dur="4s" fill="freeze" from="100" to="300" /> <!-- cambio height -->
+            <animate attributeName="width" dur="4s" fill="freeze" from="300" to="800" /> <!-- cambio width -->
+            <!-- cambio color fin -->
+            <animate attributeType="CSS" attributeName="fill" from="green" to="red" dur="4s" /> 
+        </rect>
+    </svg>
+
+</body>
+
+</html>

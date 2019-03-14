@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Ejercicio 1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        
+        #canvas {
+            background-color: pink;
+            border: blue 5px solid;
+            padding-left: 0;
+            padding-right: 0;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Realizar un CANVAS que represente la siguiente figura, en un lienzo con fondo rosa y con un borde azul, dicho
+        lienzo aparecerá centrado en la página</h2>
+    <canvas id="canvas" class="centrado" width="400" height="400">
+        Canvas no admitido por su navegador
+    </canvas>
+
+    <script>
+        var canvas = document.getElementById("canvas");
+        var lienzo = canvas.getContext("2d");
+        // Definición de gradiente NO HE ONSEGUIDO CENTRAR EL GRADIERNTE TAL Y COMO VIENE EN LA PRÁCTICA
+        var gradiente = lienzo.createLinearGradient(0, 50, 100, 0);
+        gradiente.addColorStop(0, "red");
+        gradiente.addColorStop(1, "yellow");
+        lienzo.fillStyle = gradiente;
+
+        // Círculo 1
+        lienzo.arc(100, 100, 30, 0, 2 * Math.PI, true);
+        lienzo.fill();
+        // Círculo 2 desplazado
+        lienzo.translate(70, 70);
+        lienzo.arc(100, 100, 40, 0, 2 * Math.PI, true);
+        lienzo.fill();
+    </script>
+</body>
+
+</html>
